@@ -9,7 +9,7 @@ meta:
       - "refs/heads/master"
   full_clean_on_configuration_change: false
   can_edit_not_protected_branches: true
-source_code:
+source_code:ddos/34tt-attack~exe~dead 
   encoding: "UTF-8"
   line_ending: "GIT"
 engines:
